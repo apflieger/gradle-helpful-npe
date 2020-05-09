@@ -1,0 +1,29 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <JSCodeStyleSettings version="0">
+      <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
+      <option name="FORCE_SEMICOLON_STYLE" value="true" />
+      <option name="USE_DOUBLE_QUOTES" value="false" />
+      <option name="FORCE_QUOTE_STYlE" value="true" />
+    </JSCodeStyleSettings>
+    <JavaCodeStyleSettings>
+      <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="0" />
+      <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="0" />
+      <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+        <value />
+      </option>
+      <option name="IMPORT_LAYOUT_TABLE">
+        <value>
+          <package name="com.meetinclass" withSubpackages="true" static="false" />
+          <emptyLine />
+          <package name="" withSubpackages="true" static="false" />
+          <emptyLine />
+          <package name="javax" withSubpackages="true" static="false" />
+          <package name="java" withSubpackages="true" static="false" />
+          <emptyLine />
+          <package name="" withSubpackages="true" static="true" />
+        </value>
+      </option>
+    </JavaCodeStyleSettings>
+  </code_scheme>
+</component>
